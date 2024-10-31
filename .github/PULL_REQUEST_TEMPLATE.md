@@ -1,23 +1,17 @@
-### Description
+### Description:
+<!-- If you link an issue and the issue is enough as a description, you can leave this blank -->
 
-[Short description of the feature or bug being addressed.]
+### Description:
 
-### Checklist
+<!-- If you link an issue and the issue is enough as a description, you can leave this blank -->
 
-Please check if your PR fulfills the following requirements:
+Closes <!-- Please link the issue you fix with this PR -->
 
-- [ ] I have read the [Contributor Guide](CONTRIBUTING.md)
-- [ ] I have filed an issue for the change  
-       [#Issue Number]
-- [ ] All code is formatted with `dartfmt`
-- [ ] All code passes analysis with no errors or warnings
-- [ ] Changes work for both Material and Cupertino
-- [ ] New code has documentation where needed
-- [ ] New code has test coverage if applicable
-- [ ] All existing tests pass
-- [ ] Example project still compiles and runs
-- [ ] Changes have been documented in [CHANGELOG.md](CHANGELOG.md)  
-       Using the [Keep A Changelog format](https://keepachangelog.com/en/1.0.0/).  
-       You may use [cider](https://pub.dev/packages/cider) to help with this.
-- [ ] New code has been documented in the [README.md](README.md) if applicable
-- [ ] Commit messages follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) format
+<!-- Please make sure to include and check the following boxes related to Definition of Done into to your PR -->
+
+Has been tested on:
+
+- [ ] iOS
+- [ ] Android
+- [ ] Web(Firefox)
+- [ ] Web(Chrome)
